@@ -1,0 +1,1 @@
+module.exports = (req, res, next) => {if(!req.secure) { return res.redirect(new URL(req.url, `https://${req.headers.host}`)) } else { next() } } 

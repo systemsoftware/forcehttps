@@ -1,0 +1,20 @@
+{
+  "name": "expresshttps",
+  "version": "0.0.1",
+  "description": "Express middleware to force https",
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/coolstone"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CoolStone Tech",
+  "license": "MIT",
+  "keywords": [
+    "express",
+    "middleware",
+    "https"
+  ]
+}
